@@ -1,14 +1,15 @@
 ## Opis programu
 Program oblicza rozwiązanie równania za pomocą interpolacji Lagrange'a. 
-W osobnym pliku (dane.txt) znajdują się niezbędne dane, na których program wykonuje obliczenia. 
+W osobnym pliku **dane.txt** znajdują się niezbędne dane, na których program wykonuje obliczenia. 
 
-## Zawartość pliku dane.txt
+## Zawartość pliku **dane.txt**
 
-| 4     | ilość węzów |
-| -2.0    | 3.0    | współrzędne x0 i y0  |
-| 1.0     | 1.0    | współrzędne x1 i y1  |
-| 2.0     | -3.0   | współrzędne x2 i y2  |
-| 4.0     | 8.0    | współrzędne x3 i y3  |
+| 4    | ilość węzłów |                     |
+|------|--------------|---------------------|
+| -2.0 | 3.0          | współrzędne x0 i y0 |
+| 1.0  | 1.0          | współrzędne x1 i y1 |
+| 2.0  | -3.0         | współrzędne x2 i y2 |
+| 4.0  | 8.0          | współrzędne x3 i y3 |
 
 
 ## Działanie programu
