@@ -4,19 +4,22 @@ Program za pomocą metody eliminacji Gaussa rozwiązuje dowolnej wielkości ukł
 ## Układ równań do rozwiązania
 
 0,02 𝑥1 + 0,01 𝑥2 + 0,00 𝑥3 + 0,00 𝑥4 = 0,02 
+
 1,00 𝑥1 + 2,00 𝑥2+ 1,00 𝑥3 + 0,00 𝑥4 = 1,00 
+
 0,00 𝑥1 + 1,00 𝑥2+ 2,00 𝑥3 + 1,00 𝑥4 = 4,00 
+
 0,00 𝑥1 + 0,00 𝑥2+ 100 𝑥3 + 200 𝑥4 = 800
 
 ## Zawartość pliku gauss.txt
 
-| 4    | ilość wierszy macierz |        |       |          |
-|------|--------|--------|--------|----|------|
-| 0.02 | 0.01 | 0 | 0 | 0.02 | cztery współrzędne stojące przy niewiadomych oraz wynik równania|
-| 1 | 2 | 1 | 0 | 1 | cztery współrzędne stojące przy niewiadomych oraz wynik równania|
-| 0 | 1| 2 | 1 | 4 | cztery współrzędne stojące przy niewiadomych oraz wynik równania|
-| 0 | 0 | 100 | 200 | 800 | cztery współrzędne stojące przy niewiadomych oraz wynik równania|
 
+| 4     | ilość wierszy macierzy |     |     |      |                                                                  |
+|-------|------------------------|-----|-----|------|------------------------------------------------------------------|
+| 0.02  | 0.01                   | 0   | 0   | 0.02 | cztery współrzędne stojące przy niewiadomych oraz wynik równania |
+| 1     | 2                      | 1   | 0   | 1    | cztery współrzędne stojące przy niewiadomych oraz wynik równania |
+| 0     | 1                      | 2   | 1   | 4    | cztery współrzędne stojące przy niewiadomych oraz wynik równania |
+| 0     | 0                      | 100 | 200 | 800  | cztery współrzędne stojące przy niewiadomych oraz wynik równania |
 
 ## Działanie programu
 
