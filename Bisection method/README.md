@@ -15,7 +15,7 @@ Działanie programu zostało przedstawione za pomocą przykładowej funkcji wiel
 **Funkcja wielomianowa f(x) = 2x^7 + 4x^3 + 2x + 1**
 
 
-#### Graficzne przedstawienie działania programu
+### Graficzne przedstawienie działania programu
 
 ![bisection](resources/1.jpg)
 
